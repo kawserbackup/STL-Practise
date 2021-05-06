@@ -20,6 +20,7 @@ int main ()
     /*
     The map::find() is a built-in function in C++ STL which returns an iterator or a constant iterator that refers to the position where the key is present in the map. 
     If the key is not present in the map container, it returns an iterator or a constant iterator which refers to map.end(). 
+    You can’t use the find() member function to search for an element that has a certain value.
     */
 
     //first mane holo key and second mane holo value.
